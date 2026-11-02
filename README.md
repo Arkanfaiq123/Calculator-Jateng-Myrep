@@ -9,6 +9,7 @@ Aplikasi React untuk menghitung insentif sales AE MyRepublic Jawa Tengah.
 - **Uang Prestasi 3 Bulanan:** validasi kelayakan bulanan, potongan pencairan, dan final payout.
 - **BAT (Bonus Akhir Tahun):** target tahunan, batas maksimal, dan komisi final.
 - Tambah atau hapus produk, ubah kuantitas, dan lihat rincian perhitungan secara langsung.
+- Paket **Ringan** dan **Pas** digabung menjadi satu pilihan **Ringan/Pas** karena insentifnya sama.
 
 ## Menjalankan aplikasi
 
